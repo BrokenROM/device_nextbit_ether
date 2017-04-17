@@ -1,13 +1,13 @@
 [
   {
     "remote":      "github",
-    "repository":  "BrokenROM/kernel_nextbit_msm8992",
+    "repository":  "DysfunctionalROMs/kernel_nextbit_msm8992",
     "target_path": "kernel/nextbit/msm8992",
     "branch":      "noog7.1"
   },
   {
     "remote":      "github",
-    "repository":  "BrokenROM/proprietary_vendor_nextbit",
+    "repository":  "DysfunctionalROMs/proprietary_vendor_nextbit",
     "target_path": "vendor/nextbit",
     "branch":      "noog7.1"
   }
